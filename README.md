@@ -32,7 +32,14 @@ By analyzing aviation accident records, I aim to uncover patterns related to acc
     - `Event Date`: To track accident timelines and trends over the years.
 
 #### Key Visualizations
-   1. Accident Trends by Aircraft Type (Line Graph)
+   1. Accident Trends by Aircraft Type (Line Graph) - 
 This line graph illustrates how frequently different aircraft types have been involved in accidents over time.
-![Accident Trends](Images/Accident_Trends_over_10_years_interval.png)
-Insight: The Cessna 152 and 172 consistently appeared in accident reports, indicating elevated long-term risk for these models.
+![Accident Trends](Images/Trends.png)
+
+   2. Fatalities by Aircraft Type (Bar Chart) - 
+This bar chart shows the total number of fatalities.
+![Fatalities](Images/Fatalities.png)
+
+   3. Accidents by Phase of Flight (Bar Chart) - 
+This bar chart displays the distribution of accidents across various flight phases.
+![Flight phase](Images/Flight_phase.png)
