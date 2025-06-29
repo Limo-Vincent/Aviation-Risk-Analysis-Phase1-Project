@@ -17,6 +17,13 @@ By analyzing aviation accident records, I aim to uncover patterns related to acc
  - How does the purpose of flight impact accident rates?
  - What data-supported recommendations can be made to minimize risk when selecting aircraft?
 
+## Key Data Science Steps
+ 1. Data Collection: Aircraft accident data from Kaggle.
+ 2. Data Cleaning: Handling missing values and filtering relevant columns.
+ 3. Exploratory Data Analysis: Investigated patterns in accidents by aircraft type, flight phase, fatalities, and purpose of flight.
+ 4. Visualization: Created bar charts, bubble charts, and line graph to visually explore key insights.
+ 5. Interactive Dashboard: Built in Tableau to allow users to interact with the data.
+
  ## Data Understanding and analysis
  The data for this analysis is the [**Aviation Accident Database & Synopses, up to 2023**](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses), accessed from **Kaggle**. This dataset is based on records from the U.S. National Transportation Safety Board (NTSB) and contains detailed information on aviation accidents.
 
@@ -50,9 +57,20 @@ This bar chart displays the distribution of accidents across various flight phas
 ![Dashboard](Images/Aircraft_trends.PNG)
 Click to view the dashboard: [Aircraft Analysis Dashboard](https://public.tableau.com/views/AicraftAnalysisproject/AicraftAnalysisdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+
 ## Conclusion
 This analysis on aviation accident data reveals critical safety insights for strategic entry into the aviation industry. Aircraft types such as the Cessna 152 and 172 showed higher accident frequencies, particularly during the takeoff and landing phases, underscoring the importance of rigorous pilot training and aircraft maintenance in these moments. In contrast, multi-engine jets with lower incident records present safer investment options for initial operations.
 Additionally, commercial and corporate aviation flights demonstrated comparatively lower accident rates, suggesting these segments offer a more controlled and regulated environment for operations. 
+
+## Repository Structure
+ -  `Data` folder     -   Raw datasets
+ - `Images` folder    -   Visuals and dashboard screenshots
+ - `Presentation pdf` -   Project presentation 
+ - ` Aviation.ipynb`  -   Jupyter notebook for data cleaning and analysis
+ - ` README.md`       -    Project overview and navigation
+ -  `.gitignore`      -    Lists large/sensitive files to exclude from Git
+ - `clean_data.xlsb`       -    clean data after cleaning
+
 
 
 ## Technologies Used
@@ -60,5 +78,6 @@ Additionally, commercial and corporate aviation flights demonstrated comparative
 - Jupyter notebook
 - Tableau Public
 - Git & GitHub
+
 
 
