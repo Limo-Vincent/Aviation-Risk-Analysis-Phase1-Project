@@ -47,7 +47,7 @@ This bar chart displays the distribution of accidents across various flight phas
 
 
 ## Interactive Dashboard
-![Dashboard](Images/Aircraft_trends.png)
+![Dashboard](Images/Aircraft_trends.PNG)
 Click to view the dashboard: [Aircraft Analysis Dashboard](https://public.tableau.com/views/AicraftAnalysisproject/AicraftAnalysisdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Conclusion
