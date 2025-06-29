@@ -44,10 +44,21 @@ This bar chart shows the total number of fatalities.
 This bar chart displays the distribution of accidents across various flight phases.
 ![Flight phase](Images/Flight_phase.png)
 
-## Conclusion
-This analysis on aviation accident data reveals critical safety insights for strategic entry into the aviation industry. Aircraft types such as the Cessna 152 and 172 showed higher accident frequencies, particularly during the takeoff and landing phases, underscoring the importance of rigorous pilot training and aircraft maintenance in these moments. In contrast, multi-engine jets with lower incident records present safer investment options for initial operations.
-Additionally, commercial and corporate aviation flights demonstrated comparatively lower accident rates, suggesting these segments offer a more controlled and regulated environment for operations. 
+
 
 ## Interactive Dashboard
 ![Dashboard](Images/Aircraft_trends.png)
 Click to view the dashboard: [Aircraft Analysis Dashboard](https://public.tableau.com/views/AicraftAnalysisproject/AicraftAnalysisdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Conclusion
+This analysis on aviation accident data reveals critical safety insights for strategic entry into the aviation industry. Aircraft types such as the Cessna 152 and 172 showed higher accident frequencies, particularly during the takeoff and landing phases, underscoring the importance of rigorous pilot training and aircraft maintenance in these moments. In contrast, multi-engine jets with lower incident records present safer investment options for initial operations.
+Additionally, commercial and corporate aviation flights demonstrated comparatively lower accident rates, suggesting these segments offer a more controlled and regulated environment for operations. 
+
+
+## Technologies Used
+- Python (`pandas`, `matplotlib`, `seaborn`)
+- Jupyter notebook
+- Tableau Public
+- Git & GitHub
+
+## Repository Structure
