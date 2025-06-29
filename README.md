@@ -1,4 +1,4 @@
-# Aircraft Analysis from Aviation Accident Data.
+# <h1 style="text-align: center;">Aircraft Analysis: Insights from U.S. Aviation Accident Data.</h1>
 
 ## Overview
 Our company preparing to enter the aviation industry hence, it is essential to make informed decisions that prioritize safety and reduce risk. This project leverages Aviation Accident dataset  to guide strategic aircraft purchasing decisions.
